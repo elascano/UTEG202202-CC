@@ -1,0 +1,375 @@
+[{
+  "_id": {
+    "$oid": "66206fee8819023be192e41a"
+  },
+  "web_pages": [
+    "http://www.anahuac.mx/"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "domains": [
+    "anahuac.mx"
+  ],
+  "name": "Universidad Anáhuac",
+  "country": "Mexico"
+},
+{
+  "_id": {
+    "$oid": "66206fee8819023be192e41b"
+  },
+  "web_pages": [
+    "http://bajio.delasalle.edu.mx/"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "domains": [
+    "bajio.delasalle.edu.mx"
+  ],
+  "name": "Universidad de La Salle, Bajío",
+  "country": "Mexico"
+},
+{
+  "_id": {
+    "$oid": "66206fee8819023be192e41c"
+  },
+  "web_pages": [
+    "http://www.buap.mx/"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "domains": [
+    "buap.mx"
+  ],
+  "name": "Benemerita Universidad Autónoma de Puebla",
+  "country": "Mexico"
+},
+{
+  "_id": {
+    "$oid": "66206fee8819023be192e41d"
+  },
+  "web_pages": [
+    "http://www.campusleon.ugto.mx/"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "domains": [
+    "campusleon.ugto.mx"
+  ],
+  "name": "Universidad de Guanajuato, Campus León",
+  "country": "Mexico"
+},
+{
+  "_id": {
+    "$oid": "66206fee8819023be192e41e"
+  },
+  "web_pages": [
+    "http://www.ceti.mx/"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "domains": [
+    "ceti.mx"
+  ],
+  "name": "Centro de Enseñanza Técnica Industrial",
+  "country": "Mexico"
+},
+{
+  "_id": {
+    "$oid": "662072058819023be192e420"
+  },
+  "web_pages": [
+    "http://www.atlantida.edu.ar/"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Buenos Aires",
+  "domains": [
+    "atlantida.edu.ar"
+  ],
+  "name": "Universidad Atlantida Argentina",
+  "country": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "662072058819023be192e421"
+  },
+  "web_pages": [
+    "http://www.austral.edu.ar/"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Buenos Aires",
+  "domains": [
+    "austral.edu.ar"
+  ],
+  "name": "Universidad Austral Buenos Aires",
+  "country": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "662072058819023be192e422"
+  },
+  "web_pages": [
+    "http://www.caece.edu.ar/"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Ciudad Autónoma de Buenos Aires",
+  "domains": [
+    "caece.edu.ar"
+  ],
+  "name": "Universidad CAECE, Buenos Aires",
+  "country": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "662072058819023be192e423"
+  },
+  "web_pages": [
+    "http://www.cema.edu.ar/"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Ciudad Autónoma de Buenos Aires",
+  "domains": [
+    "cema.edu.ar"
+  ],
+  "name": "Instituto Universitario CEMA",
+  "country": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "662072058819023be192e424"
+  },
+  "web_pages": [
+    "http://www.iese.edu.ar/"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Ciudad Autónoma de Buenos Aires",
+  "domains": [
+    "iese.edu.ar"
+  ],
+  "name": "Instituto de Enseñanza Superior del Ejército",
+  "country": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "662072cd8819023be192e426"
+  },
+  "web_pages": [
+    "http://www.champagnat.edu.pe/"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "domains": [
+    "champagnat.edu.pe"
+  ],
+  "name": "Universidad Marcelino Champagnat",
+  "country": "Peru"
+},
+{
+  "_id": {
+    "$oid": "662072cd8819023be192e427"
+  },
+  "web_pages": [
+    "http://www.lamolina.edu.pe/"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "domains": [
+    "lamolina.edu.pe"
+  ],
+  "name": "Universidad Nacional Agraria La Molina",
+  "country": "Peru"
+},
+{
+  "_id": {
+    "$oid": "662072cd8819023be192e428"
+  },
+  "web_pages": [
+    "http://www.pucp.edu.pe/"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "domains": [
+    "pucp.edu.pe"
+  ],
+  "name": "Pontificia Universidad Católica del Perú",
+  "country": "Peru"
+},
+{
+  "_id": {
+    "$oid": "662072cd8819023be192e429"
+  },
+  "web_pages": [
+    "http://www.sil.edu.pe/"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "domains": [
+    "sil.edu.pe"
+  ],
+  "name": "Universidad San Ignacio de Loyola",
+  "country": "Peru"
+},
+{
+  "_id": {
+    "$oid": "662072cd8819023be192e42a"
+  },
+  "web_pages": [
+    "http://www.uancv.edu.pe/"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "domains": [
+    "uancv.edu.pe"
+  ],
+  "name": "Universidad Andina Nestor Caceares Velasquez",
+  "country": "Peru"
+},
+{
+  "_id": {
+    "$oid": "662073318819023be192e42c"
+  },
+  "web_pages": [
+    "http://www.akad.de/"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "domains": [
+    "akad.de"
+  ],
+  "name": "AKAD Hochschulen für Berufstätige, Fachhochschule Leipzig",
+  "country": "Germany"
+},
+{
+  "_id": {
+    "$oid": "662073318819023be192e42d"
+  },
+  "web_pages": [
+    "http://www.asfh-berlin.de/"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "domains": [
+    "asfh-berlin.de"
+  ],
+  "name": "Alice-Salomon-Fachhochschule für Sozialarbeit und Sozialpädagogik Berlin",
+  "country": "Germany"
+},
+{
+  "_id": {
+    "$oid": "662073318819023be192e42e"
+  },
+  "web_pages": [
+    "http://www.augustana.de/"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "domains": [
+    "augustana.de"
+  ],
+  "name": "Augustana Hochschule Neuendettelsau",
+  "country": "Germany"
+},
+{
+  "_id": {
+    "$oid": "662073318819023be192e42f"
+  },
+  "web_pages": [
+    "http://www.bethel.de/kiho/"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "domains": [
+    "bethel.de"
+  ],
+  "name": "Kirchliche Hochschule Bethel",
+  "country": "Germany"
+},
+{
+  "_id": {
+    "$oid": "662073318819023be192e430"
+  },
+  "web_pages": [
+    "http://www.bits-iserlohn.de/"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "domains": [
+    "bits-iserlohn.de"
+  ],
+  "name": "BiTS - Business and Information Technology School gGmbH",
+  "country": "Germany"
+},
+{
+  "_id": {
+    "$oid": "6620737b8819023be192e432"
+  },
+  "web_pages": [
+    "https://insa-toulouse.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "domains": [
+    "insa-toulouse.fr"
+  ],
+  "name": "National Institute of Applied Sciences of Toulouse",
+  "country": "France"
+},
+{
+  "_id": {
+    "$oid": "6620737b8819023be192e433"
+  },
+  "web_pages": [
+    "https://ieseg.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "domains": [
+    "ieseg.fr"
+  ],
+  "name": "IÉSEG School of Management",
+  "country": "France"
+},
+{
+  "_id": {
+    "$oid": "6620737b8819023be192e434"
+  },
+  "web_pages": [
+    "https://www.ac-paris.fr/"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "domains": [
+    "ac-paris.fr"
+  ],
+  "name": "Académie de Paris",
+  "country": "France"
+},
+{
+  "_id": {
+    "$oid": "6620737b8819023be192e435"
+  },
+  "web_pages": [
+    "https://www.ac-aix-marseille.fr/"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "domains": [
+    "ac-aix-marseille.fr"
+  ],
+  "name": "Académie d'Aix-Marseille",
+  "country": "France"
+},
+{
+  "_id": {
+    "$oid": "6620737b8819023be192e436"
+  },
+  "web_pages": [
+    "https://www.ac-creteil.fr/"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "domains": [
+    "ac-creteil.fr"
+  ],
+  "name": "Académie de Créteil",
+  "country": "France"
+}]
