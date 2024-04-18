@@ -1,0 +1,380 @@
+[{
+  "_id": {
+    "$oid": "66214119da2ac88484ee32ac"
+  },
+  "web_pages": [
+    "https://www.uniceub.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "domains": [
+    "sempreceub.com",
+    "uniceub.br"
+  ],
+  "name": "Centro Universitário de Brasília, UNICEUB",
+  "country": "Brazil"
+},
+{
+  "_id": {
+    "$oid": "66214143da2ac88484ee4974"
+  },
+  "web_pages": [
+    "http://www.baraodemaua.br/"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "domains": [
+    "baraodemaua.br"
+  ],
+  "name": "Centro Universitário Barao de Maua",
+  "country": "Brazil"
+},
+{
+  "_id": {
+    "$oid": "662141a7da2ac88484ee7cd0"
+  },
+  "web_pages": [
+    "http://www.brazcubas.br/"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "domains": [
+    "brazcubas.br"
+  ],
+  "name": "Universidade Braz Cubas",
+  "country": "Brazil"
+},
+{
+  "_id": {
+    "$oid": "662142cada2ac88484ef07cd"
+  },
+  "web_pages": [
+    "http://www.candidomendes.br/"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "domains": [
+    "candidomendes.br"
+  ],
+  "name": "Universidade Candido Mendes",
+  "country": "Brazil"
+},
+{
+  "_id": {
+    "$oid": "662142cada2ac88484ef07ce"
+  },
+  "web_pages": [
+    "http://www.castelobranco.br/"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "domains": [
+    "castelobranco.br"
+  ],
+  "name": "Universidade Castelo Branco",
+  "country": "Brazil"
+},
+{
+  "_id": {
+    "$oid": "662144d4da2ac88484f00d75"
+  },
+  "web_pages": [
+    "https://www.cstj.qc.ca",
+    "https://ccmt.cstj.qc.ca",
+    "https://ccml.cstj.qc.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": "Quebec",
+  "domains": [
+    "cstj.qc.ca"
+  ],
+  "name": "Cégep de Saint-Jérôme",
+  "country": "Canada"
+},
+{
+  "_id": {
+    "$oid": "662144d4da2ac88484f00d76"
+  },
+  "web_pages": [
+    "https://www.lambtoncollege.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": "Ontario",
+  "domains": [
+    "lambtoncollege.ca",
+    "mylambton.ca"
+  ],
+  "name": "Lambton College",
+  "country": "Canada"
+},
+{
+  "_id": {
+    "$oid": "662144d4da2ac88484f00d77"
+  },
+  "web_pages": [
+    "http://www.acadiau.ca/"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": "Nova Scotia",
+  "domains": [
+    "acadiau.ca"
+  ],
+  "name": "Acadia University",
+  "country": "Canada"
+},
+{
+  "_id": {
+    "$oid": "662144d4da2ac88484f00d78"
+  },
+  "web_pages": [
+    "http://www.algonquincollege.com/"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": "Ontario",
+  "domains": [
+    "algonquincollege.com"
+  ],
+  "name": "Algonquin College",
+  "country": "Canada"
+},
+{
+  "_id": {
+    "$oid": "662144d4da2ac88484f00d79"
+  },
+  "web_pages": [
+    "http://www.ashtoncollege.com/"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": "British Columbia",
+  "domains": [
+    "ashtoncollege.com"
+  ],
+  "name": "Ashton College",
+  "country": "Canada"
+},
+{
+  "_id": {
+    "$oid": "66214585da2ac88484f064e7"
+  },
+  "web_pages": [
+    "http://www.adu.edu.tr/"
+  ],
+  "alpha_two_code": "TR",
+  "state-province": null,
+  "domains": [
+    "adu.edu.tr"
+  ],
+  "name": "Adnan Menderes University",
+  "country": "Turkey"
+},
+{
+  "_id": {
+    "$oid": "66214585da2ac88484f064e8"
+  },
+  "web_pages": [
+    "http://www.ahievran.edu.tr/"
+  ],
+  "alpha_two_code": "TR",
+  "state-province": null,
+  "domains": [
+    "ahievran.edu.tr"
+  ],
+  "name": "Ahi Evran University",
+  "country": "Turkey"
+},
+{
+  "_id": {
+    "$oid": "66214585da2ac88484f064e9"
+  },
+  "web_pages": [
+    "http://www.akdeniz.edu.tr/"
+  ],
+  "alpha_two_code": "TR",
+  "state-province": null,
+  "domains": [
+    "akdeniz.edu.tr"
+  ],
+  "name": "Akdeniz University",
+  "country": "Turkey"
+},
+{
+  "_id": {
+    "$oid": "66214585da2ac88484f064ea"
+  },
+  "web_pages": [
+    "http://www.anadolu.edu.tr/"
+  ],
+  "alpha_two_code": "TR",
+  "state-province": null,
+  "domains": [
+    "anadolu.edu.tr"
+  ],
+  "name": "Anadolu University",
+  "country": "Turkey"
+},
+{
+  "_id": {
+    "$oid": "66214585da2ac88484f064eb"
+  },
+  "web_pages": [
+    "http://www.ankara.edu.tr/"
+  ],
+  "alpha_two_code": "TR",
+  "state-province": null,
+  "domains": [
+    "ankara.edu.tr"
+  ],
+  "name": "Ankara University",
+  "country": "Turkey"
+},
+{
+  "_id": {
+    "$oid": "662145ecda2ac88484f094fe"
+  },
+  "web_pages": [
+    "https://insa-toulouse.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "domains": [
+    "insa-toulouse.fr"
+  ],
+  "name": "National Institute of Applied Sciences of Toulouse",
+  "country": "France"
+},
+{
+  "_id": {
+    "$oid": "662145ecda2ac88484f094ff"
+  },
+  "web_pages": [
+    "https://ieseg.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "domains": [
+    "ieseg.fr"
+  ],
+  "name": "IÉSEG School of Management",
+  "country": "France"
+},
+{
+  "_id": {
+    "$oid": "662145ecda2ac88484f09500"
+  },
+  "web_pages": [
+    "https://www.ac-paris.fr/"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "domains": [
+    "ac-paris.fr"
+  ],
+  "name": "Académie de Paris",
+  "country": "France"
+},
+{
+  "_id": {
+    "$oid": "662145ecda2ac88484f09501"
+  },
+  "web_pages": [
+    "https://www.ac-aix-marseille.fr/"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "domains": [
+    "ac-aix-marseille.fr"
+  ],
+  "name": "Académie d'Aix-Marseille",
+  "country": "France"
+},
+{
+  "_id": {
+    "$oid": "662145ecda2ac88484f09502"
+  },
+  "web_pages": [
+    "https://www.ac-creteil.fr/"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "domains": [
+    "ac-creteil.fr"
+  ],
+  "name": "Académie de Créteil",
+  "country": "France"
+},
+{
+  "_id": {
+    "$oid": "66214662da2ac88484f0d24a"
+  },
+  "web_pages": [
+    "http://www.barcelonagse.eu/"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "domains": [
+    "barcelonagse.eu"
+  ],
+  "name": "Barcelona Graduate School of Economics",
+  "country": "Spain"
+},
+{
+  "_id": {
+    "$oid": "66214662da2ac88484f0d24b"
+  },
+  "web_pages": [
+    "http://www.bircham.edu/"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "domains": [
+    "bircham.edu"
+  ],
+  "name": "Bircham International University",
+  "country": "Spain"
+},
+{
+  "_id": {
+    "$oid": "66214662da2ac88484f0d24c"
+  },
+  "web_pages": [
+    "http://www.ceu.es/"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "domains": [
+    "ceu.es"
+  ],
+  "name": "Universidad de San Pablo CEU",
+  "country": "Spain"
+},
+{
+  "_id": {
+    "$oid": "66214662da2ac88484f0d24d"
+  },
+  "web_pages": [
+    "http://www.deusto.es/"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "domains": [
+    "deusto.es"
+  ],
+  "name": "Universidad de Deusto",
+  "country": "Spain"
+},
+{
+  "_id": {
+    "$oid": "66214662da2ac88484f0d24e"
+  },
+  "web_pages": [
+    "http://www.ehu.es/"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "domains": [
+    "ehu.es",
+    "ehu.eus"
+  ],
+  "name": "Universidad del País Vasco",
+  "country": "Spain"
+}]
