@@ -1,0 +1,375 @@
+[{
+  "_id": {
+    "$oid": "6620552a111b4953182dc93f"
+  },
+  "web_pages": [
+    "https://unlp.edu.ar/"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": null,
+  "domains": [
+    "unlp.edu.ar/"
+  ],
+  "name": "National University of La Plata",
+  "country": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "6620553c111b4953182dc941"
+  },
+  "web_pages": [
+    "https://www.uba.ar/"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": null,
+  "domains": [
+    "www.uba.ar/"
+  ],
+  "name": "Buenos Aires University",
+  "country": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "6620556a111b4953182dc943"
+  },
+  "web_pages": [
+    "https://www.palermo.edu/"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": null,
+  "domains": [
+    "palermo.edu/"
+  ],
+  "name": "university of palermo",
+  "country": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "662055d9111b4953182dc945"
+  },
+  "web_pages": [
+    "https://www.ub.edu.ar/"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": null,
+  "domains": [
+    "ub.edu.ar/"
+  ],
+  "name": "university of Belgrano",
+  "country": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "66205613111b4953182dc947"
+  },
+  "web_pages": [
+    "https://www.austral.edu.ar/"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": null,
+  "domains": [
+    "austral.edu.ar/"
+  ],
+  "name": "Austral university",
+  "country": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "66205963111b4953182dc949"
+  },
+  "web_pages": [
+    "https://www.uc.cl/"
+  ],
+  "alpha_two_code": "CL",
+  "state-province": null,
+  "domains": [
+    "uc.cl/"
+  ],
+  "name": "pontifical catholic university of chile",
+  "country": "Chile"
+},
+{
+  "_id": {
+    "$oid": "66205a09111b4953182dc94b"
+  },
+  "web_pages": [
+    "https://www.uautonoma.cl/"
+  ],
+  "alpha_two_code": "CL",
+  "state-province": null,
+  "domains": [
+    "uautonoma.cl/"
+  ],
+  "name": "autonomous university of chile",
+  "country": "Chile"
+},
+{
+  "_id": {
+    "$oid": "66205ad3111b4953182dc94d"
+  },
+  "web_pages": [
+    "https://postgrados.uft.cl/"
+  ],
+  "alpha_two_code": "CL",
+  "state-province": null,
+  "domains": [
+    "postgrados.uft.cl/"
+  ],
+  "name": "University Finis Torrae",
+  "country": "Chile"
+},
+{
+  "_id": {
+    "$oid": "66205b3d111b4953182dc950"
+  },
+  "web_pages": [
+    "https://www.uvm.cl/"
+  ],
+  "alpha_two_code": "CL",
+  "state-province": null,
+  "domains": [
+    "uvm.cl/"
+  ],
+  "name": "University Viña del Mar",
+  "country": "Chile"
+},
+{
+  "_id": {
+    "$oid": "66205be0111b4953182dc953"
+  },
+  "web_pages": [
+    "https://www.uniacc.cl/"
+  ],
+  "alpha_two_code": "CL",
+  "state-province": null,
+  "domains": [
+    "uniacc.cl/"
+  ],
+  "name": "University of Arts, Sciences and Communication",
+  "country": "Chile"
+},
+{
+  "_id": {
+    "$oid": "66205cc2111b4953182dc955"
+  },
+  "web_pages": [
+    "https://learn.utoronto.ca/"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "domains": [
+    "learn.utoronto.ca/"
+  ],
+  "name": "University of Toronto’s School of Continuing Studies",
+  "country": "CANADA"
+},
+{
+  "_id": {
+    "$oid": "66205d29111b4953182dc957"
+  },
+  "web_pages": [
+    "https://langara.ca/"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "domains": [
+    "langara.ca/"
+  ],
+  "name": "Langara College",
+  "country": "CANADA"
+},
+{
+  "_id": {
+    "$oid": "66205d79111b4953182dc959"
+  },
+  "web_pages": [
+    "https://www.ubc.ca/"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "domains": [
+    "ubc.ca/"
+  ],
+  "name": "The University of British Columbia",
+  "country": "CANADA"
+},
+{
+  "_id": {
+    "$oid": "66205de4111b4953182dc95b"
+  },
+  "web_pages": [
+    "https://uwaterloo.ca/"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "domains": [
+    "uwaterloo.ca/"
+  ],
+  "name": "University of Waterloo",
+  "country": "CANADA"
+},
+{
+  "_id": {
+    "$oid": "66205e37111b4953182dc95d"
+  },
+  "web_pages": [
+    "https://www.uottawa.ca/en"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "domains": [
+    "uottawa.ca/en"
+  ],
+  "name": "University of Ottawa",
+  "country": "CANADA"
+},
+{
+  "_id": {
+    "$oid": "6620629a111b4953182dc95f"
+  },
+  "web_pages": [
+    "https://www.unam.mx/"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "domains": [
+    "unam.mx/"
+  ],
+  "name": "National Autonomous University of Mexico",
+  "country": "MEXICO"
+},
+{
+  "_id": {
+    "$oid": "6620631d111b4953182dc961"
+  },
+  "web_pages": [
+    "https://tec.mx/es"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "domains": [
+    "tec.mx/es"
+  ],
+  "name": "Tecnológico de Monterrey",
+  "country": "MEXICO"
+},
+{
+  "_id": {
+    "$oid": "6620636e111b4953182dc963"
+  },
+  "web_pages": [
+    "https://www.udlap.mx/web/"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "domains": [
+    "udlap.mx/web/"
+  ],
+  "name": "University of the Americas Puebla",
+  "country": "MEXICO"
+},
+{
+  "_id": {
+    "$oid": "662063fd111b4953182dc965"
+  },
+  "web_pages": [
+    "https://online.ipade.mx/"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "domains": [
+    "online.ipade.mx/"
+  ],
+  "name": "IPADE Business School",
+  "country": "MEXICO"
+},
+{
+  "_id": {
+    "$oid": "66206462111b4953182dc967"
+  },
+  "web_pages": [
+    "https://queretaro.tecnm.mx/"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "domains": [
+    "queretaro.tecnm.mx/"
+  ],
+  "name": "Querétaro Technological Institute",
+  "country": "MEXICO"
+},
+{
+  "_id": {
+    "$oid": "66206572111b4953182dc969"
+  },
+  "web_pages": [
+    "https://www.harvard.edu/"
+  ],
+  "alpha_two_code": "US",
+  "state-province": null,
+  "domains": [
+    "harvard.edu/"
+  ],
+  "name": "University of Harvard",
+  "country": "United States of America"
+},
+{
+  "_id": {
+    "$oid": "66206602111b4953182dc96d"
+  },
+  "web_pages": [
+    "https://uconn.edu/"
+  ],
+  "alpha_two_code": "US",
+  "state-province": null,
+  "domains": [
+    "uconn.edu/"
+  ],
+  "name": "University of Connecticut",
+  "country": "United States of America"
+},
+{
+  "_id": {
+    "$oid": "6620669e111b4953182dc96f"
+  },
+  "web_pages": [
+    "https://www.stanford.edu/"
+  ],
+  "alpha_two_code": "US",
+  "state-province": null,
+  "domains": [
+    "stanford.edu/"
+  ],
+  "name": "Universidad Stanford",
+  "country": "United States of America"
+},
+{
+  "_id": {
+    "$oid": "662066fc111b4953182dc971"
+  },
+  "web_pages": [
+    "https://umich.edu/"
+  ],
+  "alpha_two_code": "US",
+  "state-province": null,
+  "domains": [
+    "umich.edu/"
+  ],
+  "name": "University of Michigan",
+  "country": "United States of America"
+},
+{
+  "_id": {
+    "$oid": "66206747111b4953182dc973"
+  },
+  "web_pages": [
+    "https://www.uh.edu/"
+  ],
+  "alpha_two_code": "US",
+  "state-province": null,
+  "domains": [
+    "uh.edu/"
+  ],
+  "name": "University of Houston",
+  "country": "United States of America"
+}]

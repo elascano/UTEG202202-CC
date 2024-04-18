@@ -1,0 +1,406 @@
+[{
+  "_id": {
+    "$oid": "66206ec68e8639bd019aac5d"
+  },
+  "web_pages": [
+    "https://usm.cl"
+  ],
+  "alpha_two_code": "CL",
+  "state-province": null,
+  "domains": [
+    "usm.cl"
+  ],
+  "name": "Universidad Técnica Federico Santa María",
+  "country": "Chile"
+},
+{
+  "_id": {
+    "$oid": "66206ec68e8639bd019aac5e"
+  },
+  "web_pages": [
+    "http://www.academia.cl/"
+  ],
+  "alpha_two_code": "CL",
+  "state-province": null,
+  "domains": [
+    "academia.cl"
+  ],
+  "name": "Universidad Academia de Humanismo Cristiano",
+  "country": "Chile"
+},
+{
+  "_id": {
+    "$oid": "66206ec68e8639bd019aac5f"
+  },
+  "web_pages": [
+    "http://www.arquitecturaucv.cl/"
+  ],
+  "alpha_two_code": "CL",
+  "state-province": null,
+  "domains": [
+    "arquitecturaucv.cl"
+  ],
+  "name": "Escuela de Arquitectura y Diseño",
+  "country": "Chile"
+},
+{
+  "_id": {
+    "$oid": "66206ec68e8639bd019aac60"
+  },
+  "web_pages": [
+    "https://www.uc.cl/"
+  ],
+  "alpha_two_code": "CL",
+  "state-province": null,
+  "domains": [
+    "uc.cl"
+  ],
+  "name": "Pontificia Universidad Catolica de Chile",
+  "country": "Chile"
+},
+{
+  "_id": {
+    "$oid": "66206ec68e8639bd019aac61"
+  },
+  "web_pages": [
+    "http://www.uach.cl/"
+  ],
+  "alpha_two_code": "CL",
+  "state-province": null,
+  "domains": [
+    "uach.cl"
+  ],
+  "name": "Universidad Austral de Chile",
+  "country": "Chile"
+},
+{
+  "_id": {
+    "$oid": "66206f468e8639bd019aac63"
+  },
+  "web_pages": [
+    "http://www.autonoma.edu.co/"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "domains": [
+    "autonoma.edu.co"
+  ],
+  "name": "Universidad Autónoma de Manizales",
+  "country": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "66206f468e8639bd019aac64"
+  },
+  "web_pages": [
+    "http://www.bellasartes.edu.co/"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "domains": [
+    "bellasartes.edu.co"
+  ],
+  "name": "Universidad Bellas Artes",
+  "country": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "66206f468e8639bd019aac65"
+  },
+  "web_pages": [
+    "http://www.bundenet.com/umusical/"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "domains": [
+    "bundenet.com"
+  ],
+  "name": "Conservatorio del Tolima",
+  "country": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "66206f468e8639bd019aac66"
+  },
+  "web_pages": [
+    "http://www.cesa.edu.co/"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "domains": [
+    "cesa.edu.co"
+  ],
+  "name": "Colegio de Estudios Superiores de Administración (CESA)",
+  "country": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "66206f468e8639bd019aac67"
+  },
+  "web_pages": [
+    "http://www.ces.edu.co/"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "domains": [
+    "ces.edu.co"
+  ],
+  "name": "Universidad CES",
+  "country": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "66206f878e8639bd019aac69"
+  },
+  "web_pages": [
+    "http://www.champagnat.edu.pe/"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "domains": [
+    "champagnat.edu.pe"
+  ],
+  "name": "Universidad Marcelino Champagnat",
+  "country": "Peru"
+},
+{
+  "_id": {
+    "$oid": "66206f878e8639bd019aac6a"
+  },
+  "web_pages": [
+    "http://www.lamolina.edu.pe/"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "domains": [
+    "lamolina.edu.pe"
+  ],
+  "name": "Universidad Nacional Agraria La Molina",
+  "country": "Peru"
+},
+{
+  "_id": {
+    "$oid": "66206f878e8639bd019aac6b"
+  },
+  "web_pages": [
+    "http://www.pucp.edu.pe/"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "domains": [
+    "pucp.edu.pe"
+  ],
+  "name": "Pontificia Universidad Católica del Perú",
+  "country": "Peru"
+},
+{
+  "_id": {
+    "$oid": "66206f878e8639bd019aac6c"
+  },
+  "web_pages": [
+    "http://www.sil.edu.pe/"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "domains": [
+    "sil.edu.pe"
+  ],
+  "name": "Universidad San Ignacio de Loyola",
+  "country": "Peru"
+},
+{
+  "_id": {
+    "$oid": "66206f878e8639bd019aac6d"
+  },
+  "web_pages": [
+    "http://www.uancv.edu.pe/"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "domains": [
+    "uancv.edu.pe"
+  ],
+  "name": "Universidad Andina Nestor Caceares Velasquez",
+  "country": "Peru"
+},
+{
+  "_id": {
+    "$oid": "66206f878e8639bd019aac6e"
+  },
+  "web_pages": [
+    "http://www.uandina.edu.pe/"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "domains": [
+    "uandina.edu.pe"
+  ],
+  "name": "Universidad Andina del Cusco",
+  "country": "Peru"
+},
+{
+  "_id": {
+    "$oid": "66206fba8e8639bd019aac70"
+  },
+  "web_pages": [
+    "http://www.aasa.ac.jp/"
+  ],
+  "alpha_two_code": "JP",
+  "state-province": null,
+  "domains": [
+    "aasa.ac.jp"
+  ],
+  "name": "Aichi Shukutoku University",
+  "country": "Japan"
+},
+{
+  "_id": {
+    "$oid": "66206fba8e8639bd019aac71"
+  },
+  "web_pages": [
+    "http://www.abu.ac.jp/"
+  ],
+  "alpha_two_code": "JP",
+  "state-province": null,
+  "domains": [
+    "abu.ac.jp"
+  ],
+  "name": "Aichi Bunkyo University",
+  "country": "Japan"
+},
+{
+  "_id": {
+    "$oid": "66206fba8e8639bd019aac72"
+  },
+  "web_pages": [
+    "http://www.aichi-edu.ac.jp/"
+  ],
+  "alpha_two_code": "JP",
+  "state-province": null,
+  "domains": [
+    "aichi-edu.ac.jp"
+  ],
+  "name": "Aichi University of Education",
+  "country": "Japan"
+},
+{
+  "_id": {
+    "$oid": "66206fba8e8639bd019aac73"
+  },
+  "web_pages": [
+    "http://www.aichi-fam-u.ac.jp/"
+  ],
+  "alpha_two_code": "JP",
+  "state-province": null,
+  "domains": [
+    "aichi-fam-u.ac.jp"
+  ],
+  "name": "Aichi Prefectural University of Fine Arts & Music",
+  "country": "Japan"
+},
+{
+  "_id": {
+    "$oid": "66206fba8e8639bd019aac74"
+  },
+  "web_pages": [
+    "http://www.aichi-gakuin.ac.jp/"
+  ],
+  "alpha_two_code": "JP",
+  "state-province": null,
+  "domains": [
+    "aichi-gakuin.ac.jp"
+  ],
+  "name": "Aichi Gakuin University",
+  "country": "Japan"
+},
+{
+  "_id": {
+    "$oid": "66206ffe8e8639bd019aac76"
+  },
+  "web_pages": [
+    "http://www.barcelonagse.eu/"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "domains": [
+    "barcelonagse.eu"
+  ],
+  "name": "Barcelona Graduate School of Economics",
+  "country": "Spain"
+},
+{
+  "_id": {
+    "$oid": "66206ffe8e8639bd019aac77"
+  },
+  "web_pages": [
+    "http://www.bircham.edu/"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "domains": [
+    "bircham.edu"
+  ],
+  "name": "Bircham International University",
+  "country": "Spain"
+},
+{
+  "_id": {
+    "$oid": "66206ffe8e8639bd019aac78"
+  },
+  "web_pages": [
+    "http://www.ceu.es/"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "domains": [
+    "ceu.es"
+  ],
+  "name": "Universidad de San Pablo CEU",
+  "country": "Spain"
+},
+{
+  "_id": {
+    "$oid": "66206ffe8e8639bd019aac79"
+  },
+  "web_pages": [
+    "http://www.deusto.es/"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "domains": [
+    "deusto.es"
+  ],
+  "name": "Universidad de Deusto",
+  "country": "Spain"
+},
+{
+  "_id": {
+    "$oid": "66206ffe8e8639bd019aac7a"
+  },
+  "web_pages": [
+    "http://www.ehu.es/"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "domains": [
+    "ehu.es",
+    "ehu.eus"
+  ],
+  "name": "Universidad del País Vasco",
+  "country": "Spain"
+},
+{
+  "_id": {
+    "$oid": "66206ffe8e8639bd019aac7b"
+  },
+  "web_pages": [
+    "http://www.esic.es/"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "domains": [
+    "esic.es"
+  ],
+  "name": "Escuela Superior de Gestion Comercial y Marketing (ESIC)",
+  "country": "Spain"
+}]
