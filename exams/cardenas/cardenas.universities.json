@@ -1,0 +1,381 @@
+[{
+  "_id": {
+    "$oid": "66206e616ebd260a092cd702"
+  },
+  "web_pages": [
+    "http://www.autonoma.edu.co/"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "domains": [
+    "autonoma.edu.co"
+  ],
+  "name": "Universidad Autónoma de Manizales",
+  "country": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "66206e616ebd260a092cd703"
+  },
+  "web_pages": [
+    "http://www.bellasartes.edu.co/"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "domains": [
+    "bellasartes.edu.co"
+  ],
+  "name": "Universidad Bellas Artes",
+  "country": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "66206e616ebd260a092cd704"
+  },
+  "web_pages": [
+    "http://www.bundenet.com/umusical/"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "domains": [
+    "bundenet.com"
+  ],
+  "name": "Conservatorio del Tolima",
+  "country": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "66206e616ebd260a092cd705"
+  },
+  "web_pages": [
+    "http://www.cesa.edu.co/"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "domains": [
+    "cesa.edu.co"
+  ],
+  "name": "Colegio de Estudios Superiores de Administración (CESA)",
+  "country": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "66206e616ebd260a092cd706"
+  },
+  "web_pages": [
+    "http://www.ces.edu.co/"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "domains": [
+    "ces.edu.co"
+  ],
+  "name": "Universidad CES",
+  "country": "Colombia"
+},
+{
+  "_id": {
+    "$oid": "66206ea46ebd260a092cd709"
+  },
+  "web_pages": [
+    "http://www.carolus-magnus-university.eu/"
+  ],
+  "alpha_two_code": "BE",
+  "state-province": null,
+  "domains": [
+    "carolus-magnus-university.eu"
+  ],
+  "name": "European Carolus Magnus University",
+  "country": "Belgium"
+},
+{
+  "_id": {
+    "$oid": "66206ea46ebd260a092cd70a"
+  },
+  "web_pages": [
+    "http://www.coleurope.eu/"
+  ],
+  "alpha_two_code": "BE",
+  "state-province": null,
+  "domains": [
+    "coleurope.eu"
+  ],
+  "name": "College of Europe",
+  "country": "Belgium"
+},
+{
+  "_id": {
+    "$oid": "66206ea46ebd260a092cd70b"
+  },
+  "web_pages": [
+    "http://www.ctsem.edu/"
+  ],
+  "alpha_two_code": "BE",
+  "state-province": null,
+  "domains": [
+    "ctsem.edu"
+  ],
+  "name": "Continental Theological Seminary",
+  "country": "Belgium"
+},
+{
+  "_id": {
+    "$oid": "66206ea46ebd260a092cd70c"
+  },
+  "web_pages": [
+    "http://www.ecam.be/"
+  ],
+  "alpha_two_code": "BE",
+  "state-province": null,
+  "domains": [
+    "ecam.be"
+  ],
+  "name": "ECAM - Institut Supérieur Industriel",
+  "country": "Belgium"
+},
+{
+  "_id": {
+    "$oid": "66206ea46ebd260a092cd70d"
+  },
+  "web_pages": [
+    "http://www.ehb.be/"
+  ],
+  "alpha_two_code": "BE",
+  "state-province": null,
+  "domains": [
+    "ehb.be"
+  ],
+  "name": "Erasmushogeschool Brussel",
+  "country": "Belgium"
+},
+{
+  "_id": {
+    "$oid": "66206f026ebd260a092cd70f"
+  },
+  "web_pages": [
+    "https://www.cstj.qc.ca",
+    "https://ccmt.cstj.qc.ca",
+    "https://ccml.cstj.qc.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": "Quebec",
+  "domains": [
+    "cstj.qc.ca"
+  ],
+  "name": "Cégep de Saint-Jérôme",
+  "country": "Canada"
+},
+{
+  "_id": {
+    "$oid": "66206f026ebd260a092cd710"
+  },
+  "web_pages": [
+    "https://www.lambtoncollege.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": "Ontario",
+  "domains": [
+    "lambtoncollege.ca",
+    "mylambton.ca"
+  ],
+  "name": "Lambton College",
+  "country": "Canada"
+},
+{
+  "_id": {
+    "$oid": "66206f026ebd260a092cd711"
+  },
+  "web_pages": [
+    "http://www.acadiau.ca/"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": "Nova Scotia",
+  "domains": [
+    "acadiau.ca"
+  ],
+  "name": "Acadia University",
+  "country": "Canada"
+},
+{
+  "_id": {
+    "$oid": "66206f026ebd260a092cd712"
+  },
+  "web_pages": [
+    "http://www.algonquincollege.com/"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": "Ontario",
+  "domains": [
+    "algonquincollege.com"
+  ],
+  "name": "Algonquin College",
+  "country": "Canada"
+},
+{
+  "_id": {
+    "$oid": "66206f026ebd260a092cd713"
+  },
+  "web_pages": [
+    "http://www.ashtoncollege.com/"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": "British Columbia",
+  "domains": [
+    "ashtoncollege.com"
+  ],
+  "name": "Ashton College",
+  "country": "Canada"
+},
+{
+  "_id": {
+    "$oid": "66206fb06ebd260a092cd715"
+  },
+  "web_pages": [
+    "https://sysu.edu.cn"
+  ],
+  "alpha_two_code": "CN",
+  "state-province": null,
+  "domains": [
+    "mail2.sysu.edu.cn",
+    "mail.sysu.edu.cn"
+  ],
+  "name": "Sun Yat-Sen University",
+  "country": "China"
+},
+{
+  "_id": {
+    "$oid": "66206fb06ebd260a092cd716"
+  },
+  "web_pages": [
+    "https://www.hnu.edu.cn",
+    "http://www-en.hnu.edu.cn"
+  ],
+  "alpha_two_code": "CN",
+  "state-province": null,
+  "domains": [
+    "hnu.edu.cn",
+    "www-en.hnu.edu.cn"
+  ],
+  "name": "Hunan University",
+  "country": "China"
+},
+{
+  "_id": {
+    "$oid": "66206fb06ebd260a092cd717"
+  },
+  "web_pages": [
+    "http://www.ahmu.edu.cn/"
+  ],
+  "alpha_two_code": "CN",
+  "state-province": null,
+  "domains": [
+    "ahmu.edu.cn"
+  ],
+  "name": "Anhui Medical University",
+  "country": "China"
+},
+{
+  "_id": {
+    "$oid": "66206fb06ebd260a092cd718"
+  },
+  "web_pages": [
+    "http://www.ahnu.edu.cn/"
+  ],
+  "alpha_two_code": "CN",
+  "state-province": null,
+  "domains": [
+    "ahnu.edu.cn"
+  ],
+  "name": "Anhui Normal University",
+  "country": "China"
+},
+{
+  "_id": {
+    "$oid": "66206fb06ebd260a092cd719"
+  },
+  "web_pages": [
+    "http://www.ahsdxy.ah.edu.cn/"
+  ],
+  "alpha_two_code": "CN",
+  "state-province": null,
+  "domains": [
+    "ahsdxy.ah.edu.cn"
+  ],
+  "name": "Anhui Technical College of Water Resources and Hydroelectric Power",
+  "country": "China"
+},
+{
+  "_id": {
+    "$oid": "662072856ebd260a092cd724"
+  },
+  "web_pages": [
+    "http://www.cocite.pt/"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "domains": [
+    "cocite.pt"
+  ],
+  "name": "Instituto Superior de Informática e Gestão",
+  "country": "Portugal"
+},
+{
+  "_id": {
+    "$oid": "662072856ebd260a092cd725"
+  },
+  "web_pages": [
+    "http://www.enautica.pt/"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "domains": [
+    "enautica.pt"
+  ],
+  "name": "Escola Nautica Infante D. Henrique",
+  "country": "Portugal"
+},
+{
+  "_id": {
+    "$oid": "662072856ebd260a092cd726"
+  },
+  "web_pages": [
+    "http://www.esad.pt/"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "domains": [
+    "esad.pt"
+  ],
+  "name": "Escola Superior de Artes e Design",
+  "country": "Portugal"
+},
+{
+  "_id": {
+    "$oid": "662072856ebd260a092cd727"
+  },
+  "web_pages": [
+    "http://www.eshte.pt/"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "domains": [
+    "eshte.pt"
+  ],
+  "name": "Escola Superior de Hotelaria e Turismo do Estoril",
+  "country": "Portugal"
+},
+{
+  "_id": {
+    "$oid": "662072856ebd260a092cd728"
+  },
+  "web_pages": [
+    "http://www.europeanuniversity.pt/"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "domains": [
+    "europeanuniversity.pt"
+  ],
+  "name": "European University Portugal",
+  "country": "Portugal"
+}]
