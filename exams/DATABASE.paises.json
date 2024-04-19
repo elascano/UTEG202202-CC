@@ -1,0 +1,376 @@
+[{
+  "_id": {
+    "$oid": "6621d42ad98c82650807ccbd"
+  },
+  "web_pages": [
+    "http://www.ucnh.org/"
+  ],
+  "alpha_two_code": "HT",
+  "state-province": null,
+  "domains": [
+    "ucnh.org"
+  ],
+  "name": "Université Chrétienne du Nord d'Haiti",
+  "country": "Haiti"
+},
+{
+  "_id": {
+    "$oid": "6621d42ad98c82650807ccbf"
+  },
+  "web_pages": [
+    "http://www.undh.org/"
+  ],
+  "alpha_two_code": "HT",
+  "state-province": null,
+  "domains": [
+    "undh.org"
+  ],
+  "name": "Université Notre Dame d'Haïti",
+  "country": "Haiti"
+},
+{
+  "_id": {
+    "$oid": "6621d42ad98c82650807ccbe"
+  },
+  "web_pages": [
+    "http://www.ueh.edu.ht/"
+  ],
+  "alpha_two_code": "HT",
+  "state-province": null,
+  "domains": [
+    "ueh.edu.ht"
+  ],
+  "name": "Université d'Etat d'Haiti",
+  "country": "Haiti"
+},
+{
+  "_id": {
+    "$oid": "6621d42ad98c82650807ccc0"
+  },
+  "web_pages": [
+    "http://www.uneph.org/"
+  ],
+  "alpha_two_code": "HT",
+  "state-province": null,
+  "domains": [
+    "uneph.org"
+  ],
+  "name": "Université Épiscopale d'Haiti",
+  "country": "Haiti"
+},
+{
+  "_id": {
+    "$oid": "6621d42fd98c82650807ccc6"
+  },
+  "web_pages": [
+    "http://www.unitec.edu/"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "domains": [
+    "unitec.edu"
+  ],
+  "name": "Universidad Tecnológica Centroamericana",
+  "country": "Honduras"
+},
+{
+  "_id": {
+    "$oid": "6621d42fd98c82650807ccc5"
+  },
+  "web_pages": [
+    "http://www.unimetro.edu.hn/"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "domains": [
+    "unimetro.edu.hn"
+  ],
+  "name": "Universidad Metropolitana de Honduras",
+  "country": "Honduras"
+},
+{
+  "_id": {
+    "$oid": "6621d42fd98c82650807ccc7"
+  },
+  "web_pages": [
+    "http://www.upnfm.edu.hn/"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "domains": [
+    "upnfm.edu.hn"
+  ],
+  "name": "Universidad Pedagógica Nacional \"Francisco Morazán\"",
+  "country": "Honduras"
+},
+{
+  "_id": {
+    "$oid": "6621d434d98c82650807cccf"
+  },
+  "web_pages": [
+    "http://www.uc.edu.py/"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "domains": [
+    "uc.edu.py"
+  ],
+  "name": "Universidad Católica Nuestra Senora de la Asunción",
+  "country": "Paraguay"
+},
+{
+  "_id": {
+    "$oid": "6621d434d98c82650807ccd5"
+  },
+  "web_pages": [
+    "http://www.unida.edu.py/"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "domains": [
+    "unida.edu.py"
+  ],
+  "name": "Universidad de la Integración de las Americas (UNIDAD)",
+  "country": "Paraguay"
+},
+{
+  "_id": {
+    "$oid": "6621d434d98c82650807ccd7"
+  },
+  "web_pages": [
+    "http://www.upe.edu.py/"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "domains": [
+    "upe.edu.py"
+  ],
+  "name": "Universidad Privada del Este",
+  "country": "Paraguay"
+},
+{
+  "_id": {
+    "$oid": "6621d434d98c82650807cccb"
+  },
+  "web_pages": [
+    "http://www.columbia.edu.py/"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "domains": [
+    "columbia.edu.py"
+  ],
+  "name": "Universidad Columbia del Paraguay",
+  "country": "Paraguay"
+},
+{
+  "_id": {
+    "$oid": "6621d434d98c82650807ccd4"
+  },
+  "web_pages": [
+    "http://www.une.edu.py/"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "domains": [
+    "une.edu.py"
+  ],
+  "name": "Universidad Nacional del Este",
+  "country": "Paraguay"
+},
+{
+  "_id": {
+    "$oid": "6621d43ad98c82650807ccdf"
+  },
+  "web_pages": [
+    "http://www.unis.sn/"
+  ],
+  "alpha_two_code": "SN",
+  "state-province": null,
+  "domains": [
+    "unis.sn"
+  ],
+  "name": "Université du Sahel",
+  "country": "Senegal"
+},
+{
+  "_id": {
+    "$oid": "6621d43ad98c82650807cce0"
+  },
+  "web_pages": [
+    "http://www.univ-thies.sn/"
+  ],
+  "alpha_two_code": "SN",
+  "state-province": null,
+  "domains": [
+    "univ-thies.sn"
+  ],
+  "name": "Université de Thiès",
+  "country": "Senegal"
+},
+{
+  "_id": {
+    "$oid": "6621d43ad98c82650807ccd8"
+  },
+  "web_pages": [
+    "http://www.afi-ue.sn/"
+  ],
+  "alpha_two_code": "SN",
+  "state-province": null,
+  "domains": [
+    "afi-ue.sn"
+  ],
+  "name": "L'Université de l'Entreprise",
+  "country": "Senegal"
+},
+{
+  "_id": {
+    "$oid": "6621d43ad98c82650807ccde"
+  },
+  "web_pages": [
+    "http://www.ugb.sn/"
+  ],
+  "alpha_two_code": "SN",
+  "state-province": null,
+  "domains": [
+    "ugb.sn"
+  ],
+  "name": "Université Gaston Berger Saint-Louis",
+  "country": "Senegal"
+},
+{
+  "_id": {
+    "$oid": "6621d43ad98c82650807cce1"
+  },
+  "web_pages": [
+    "http://www.univ-zig.sn/"
+  ],
+  "alpha_two_code": "SN",
+  "state-province": null,
+  "domains": [
+    "univ-zig.sn"
+  ],
+  "name": "Université de Ziguinchor",
+  "country": "Senegal"
+},
+{
+  "_id": {
+    "$oid": "6621d440d98c82650807cce3"
+  },
+  "web_pages": [
+    "http://www.ort.edu.uy/"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "domains": [
+    "ort.edu.uy"
+  ],
+  "name": "Universidad ORT Uruguay",
+  "country": "Uruguay"
+},
+{
+  "_id": {
+    "$oid": "6621d440d98c82650807cce7"
+  },
+  "web_pages": [
+    "http://www.universidad.edu.uy/"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "domains": [
+    "universidad.edu.uy",
+    "fing.edu.uy"
+  ],
+  "name": "Universidad de la República",
+  "country": "Uruguay"
+},
+{
+  "_id": {
+    "$oid": "6621d440d98c82650807cce5"
+  },
+  "web_pages": [
+    "http://www.ude.edu.uy/"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "domains": [
+    "ude.edu.uy"
+  ],
+  "name": "Universidad de la Empresa (UDE)",
+  "country": "Uruguay"
+},
+{
+  "_id": {
+    "$oid": "6621d440d98c82650807cce4"
+  },
+  "web_pages": [
+    "http://www.ucu.edu.uy/"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "domains": [
+    "ucu.edu.uy"
+  ],
+  "name": "Universidad Católica del Uruguay",
+  "country": "Uruguay"
+},
+{
+  "_id": {
+    "$oid": "6621d440d98c82650807cce6"
+  },
+  "web_pages": [
+    "http://www.um.edu.uy/"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "domains": [
+    "um.edu.uy"
+  ],
+  "name": "Universidad de Montevideo",
+  "country": "Uruguay"
+},
+{
+  "_id": {
+    "$oid": "6621dc4ebf67b3216be11e3a"
+  },
+  "web_pages": [
+    "http://www.ucnh.org/"
+  ],
+  "alpha_two_code": "HT",
+  "state-province": null,
+  "domains": [
+    "ucnh.org"
+  ],
+  "name": "Université Giux du Nord d'Haiti",
+  "country": "Haiti"
+},
+{
+  "_id": {
+    "$oid": "6621dc9bbf67b3216be11e3c"
+  },
+  "web_pages": [
+    "http://www.unitec.edu/"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "domains": [
+    "unitec.edu"
+  ],
+  "name": "Universidad Unemi Centroamericana",
+  "country": "Honduras"
+},
+{
+  "_id": {
+    "$oid": "6621dcb3bf67b3216be11e3d"
+  },
+  "web_pages": [
+    "http://www.upnfm.edu.hn/"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "domains": [
+    "upnfm.edu.hn"
+  ],
+  "name": "Universidad Francisco Morazán\"",
+  "country": "Honduras"
+}]
